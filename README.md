@@ -16,3 +16,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ssh-keygen
 
 ssh-copy-id
+
+## 终端软件 terminus
+
+[https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
